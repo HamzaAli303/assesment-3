@@ -1,0 +1,94 @@
+body {
+	background: #ddd;
+	margin: 1rem;
+	padding: 1rem;
+	max-width: 500px;
+	margin: 2rem auto;
+	font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.hr {
+	color: black;
+}
+
+.profile {
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bold;
+	background-color: tan;
+
+}
+
+#Story {
+	font-weight: bold;
+	text-align: left;
+	font-family: 'Times New Roman', Times, serif;
+	background-color: tan
+}
+
+.about {
+	background-color: tan;
+}
+
+p {
+	font-size: small;
+	font-family: 'Times New Roman', Times, serif;
+	font-style: normal;
+	text-align: center;
+}
+
+.skills {
+	font-size: medium;
+}
+
+.interests {
+	font-size: medium;
+}
+
+.goals {
+	font-size: medium;
+}
+
+.btnStyle {
+	background-color: yellow;
+	display: inline;
+	flex-direction: column;
+	justify-content: baseline;
+	align-items: center;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 20px;
+	border: 5px solid tan;
+	font-size: 20px;
+
+}
